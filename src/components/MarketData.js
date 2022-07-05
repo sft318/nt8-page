@@ -10,7 +10,7 @@ function MarketData() {
         <h1>Kinetick Data Feed</h1>
         <Data to="//kinetick.com/NinjaTrader">
             <button>Suscribe</button>
-            <img src='/images/Kinetick-FreeEOD-300x250.png' />
+            <img src='./images/Kinetick-FreeEOD-300x250.png' />
         </Data>
         <Desc>
             <h5>Description</h5>

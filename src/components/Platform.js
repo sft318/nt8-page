@@ -9,7 +9,7 @@ function Platform() {
         <h3>Ninjatrader</h3>
         <Data to="//ninjatrader.com/es/LP/VendorDemo/">
             <button>Try Now</button>
-            <img src='/images/NinjaTrader-Download-300x250.png' />
+            <img src='./images/NinjaTrader-Download-300x250.png' />
         </Data>
         <Desc>
             <h5>Description</h5>

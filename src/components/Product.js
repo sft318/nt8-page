@@ -32,7 +32,7 @@ const Container = styled.div`
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: ${props => `url("/images/${props.BgImg}")`};
+    background-image: ${props => `url("./images/${props.BgImg}")`};
     
     @media (max-width: 678px){
         height: 250px;
