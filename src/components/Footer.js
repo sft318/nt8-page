@@ -1,19 +1,19 @@
 import React from 'react';
 import styled from 'styled-components';
 import { AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai';
+import { Link } from 'react-router-dom';
 
 function Footer() {
   return (
     <Container>
         <p>2022 Squant All Rights Reserved</p>
-        <Icons>
-            <AiFillInstagram />
-				    <AiOutlineTwitter />
+        <Icons to="//twitter.com/SergioFT0318">
+	    <AiOutlineTwitter />
         </Icons>
-
     </Container>
   )
 }
+
 
 export default Footer;
 
@@ -38,7 +38,7 @@ const Container = styled.div`
   }
 `;
 
-const Icons = styled.div`
+const Icons = styled(Link)`
   font-size: 30px;
   display: flex;
   gap: 10px;
