@@ -6,7 +6,7 @@ function Platform() {
   return (
     <Container id="platform">
         <h1>Best Platform in the Market</h1>
-        <h3>Ninjatrader</h3>
+        <h3>NinjaTrader</h3>
         <Data to="//ninjatrader.com/es/LP/VendorDemo/">
             <button>Try Now</button>
             <img src='./images/NinjaTrader-Download-300x250.png' />

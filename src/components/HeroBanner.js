@@ -9,13 +9,12 @@ function HeroBanner() {
         <Container>
 
             <Heading>
-                <a>Ninjatrader Developer</a>
+                <a>NinjaTrader Developer</a>
                 <h3>Summer Sales</h3>
                 <h1>Great</h1>
                 <Data to="//ninjatrader.com/es/LP/VendorDemo/">
                     <img src='./images/Ninjatraderc.png' alt=""/>
-                    <Datas to="principal"><button>Buy Now</button></Datas>
-                </Data>
+                    </Data>
                 <Desc>
                     <h5></h5>
                     <p></p>
