@@ -50,7 +50,7 @@ const Heading = styled.div`
     }
     h3 {
         font-size: 4rem;
-        margint-top: 4px;
+        margin-top: 4px;
     }
     h1{
         color: white;
@@ -87,7 +87,7 @@ const Heading = styled.div`
             width: 300px;
             height: 48px;
             top: 52%;
-            right: 3px%;
+            right: 3px;
         }
         a{
             font-size: 25px;
